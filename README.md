@@ -39,6 +39,8 @@
   </a>
 </div>
 
+<br>
+
 ```sql
 select * from mell where life like '%beer%'
 ```
