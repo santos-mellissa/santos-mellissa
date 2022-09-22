@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
-      
-  
+
+```sql
+select * from mell where life like '%beer%'
+```
+
 <!-- Site para buscar os icones: https://devicon.dev/ -->
