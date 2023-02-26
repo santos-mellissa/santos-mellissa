@@ -6,7 +6,7 @@
 
 <br>
 
-🔺 Belo Horizonte / MG <br> 💻 Analista de Negócios na MaxMilhas <br> 📚 Estudante de Sistemas de Informação na Newton Paiva <br> 📊 Apaixonada por dados <br> 🐈‍ Tigrão, Margot e Mingau
+🔺 Belo Horizonte / MG <br> 💻 Analista de Negócios na MaxMilhas <br> 📚 Estudante de Sistemas de Informação na Newton Paiva <br> 📊 Apaixonada por dados <br> 🐈‍ Tigrão e Margot
 
 <br>
 
